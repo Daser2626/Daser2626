@@ -1,6 +1,6 @@
 ### 
 Hallo Mein Name ist Damon, und ich wohne in Pulheim und bin seit fast einem halben Jahr dran Discord Bots zu Programmieren.
-Gerlernt habe ich dies bei LvckyWorld(https://github.com/LvckyWorld) oder auch bei LvckyAPI(https://github/LvckyAPI)
+Gerlernt habe ich dies bei [LvckyWorld]LvckyWorld oder auch bei LvckyAPI(https://github/LvckyAPI)
 
 <!--
 **Daser2626/Daser2626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
