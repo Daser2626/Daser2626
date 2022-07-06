@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daser2626&theme=tokyonight)](https://github.com/DAser2626/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daser2626&theme=tokyonight)](https://github.com/Daser2626/)
 [![stats](https://github-readme-stats.vercel.app/api?username=Daser2626&count_private=true&theme=tokyonight&include_all_commits=true)](https://github.com/Daser2626)
