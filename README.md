@@ -10,7 +10,7 @@ I'm Damon Otten / Pulheim, Germany
 Gerlernt habe ich dies, bei [LvckyWorld](https://www.github.com/LvckyWorld) oder auch bei [LvckyAPI](https://github/LvckyAPI), der mein Mentor ist.
 
 ## Social Media
-[![Discord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white&longCache=true&style=for-the-badge)](https://discordapp.com/users/466986428107063306)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white&longCache=true&style=for-the-badge)](https://discordapp.com/users/641266097768890408)
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daser2626&theme=tokyonight)](https://github.com/Daser2626/)
