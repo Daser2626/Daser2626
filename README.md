@@ -7,7 +7,7 @@ I'm Damon Otten / Pulheim, Germany
 [![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E.svg?logo=javascript&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/Daser2626?tab=repositories&q=&type=&language=javascript)
 
 ## Learned at
-Gerlernt habe ich dies, bei [LvckyWorld](https://www.github.com/LvckyWorld) oder auch bei [LvckyAPI](https://github/Lvckyapi), der mein Mentor ist.
+Gerlernt habe ich dies, bei [LvckyWorld](https://www.github.com/LvckyWorld) oder auch bei [LvckyAPI](https://github.com/LvckyAPI/LvckyAPI), der mein Mentor ist.
 
 ## Social Media
 [![Discord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white&longCache=true&style=for-the-badge)](https://discordapp.com/users/641266097768890408)
