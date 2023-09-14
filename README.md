@@ -12,7 +12,7 @@ I'm Damon Otten / Pulheim, Germany
 I learned this at [LvckyWorld](https://github.com/LvckyWorld) or also with [LvckyAPI](https://github.com/LvckyAPI/LvckyAPI), who is my mentor.
 
 # Who is LvckyWorld?
-[LvckyWorld](https://github.com/LvckyWorld) is a project with developers who can do many things e.g. [TypeScript](https://en.wikipedia.org/wiki/TypeScript), [JavaScript](https://en.wikipedia.org/wiki/JavaScript), [PHP](https://en.wikipedia.org/wiki/PHP), [C#](https://de.wikipedia.org/wiki/C-Sharp), [C++](https://en.wikipedia.org/wiki/C++), [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), [Pythone](https://en.wikipedia.org/wiki/Python_(programming_language)) and more. The Management of LvckyWorld are FullStack-Developers if you are interested in our service please join our [Discord](https://discord.com/channels/@me): https://discord.gg/LvckyWorld
+[LvckyWorld](https://github.com/LvckyWorld) is a project with developers who can do many things e.g. [TypeScript](https://en.wikipedia.org/wiki/TypeScript), [JavaScript](https://en.wikipedia.org/wiki/JavaScript), [PHP](https://en.wikipedia.org/wiki/PHP), [C#](https://de.wikipedia.org/wiki/C-Sharp), [C++](https://en.wikipedia.org/wiki/C++), [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), [Pythone](https://en.wikipedia.org/wiki/Python_(programming_language)) and more. The Management of LvckyWorld are FullStack-Developers if you are interested in our service please join our [Discord](https://discord.gg/LvckyWorld)
 
 ## LvckyWorld Developer Ranking
 ### Managing Director
