@@ -18,8 +18,7 @@ I learned this at [LvckyWorld](https://github.com/LvckyWorld) or also with [Lvck
 ### Managing Director
 1. [LvckyAPI](https://github.com/LvckyAPI)
 2. [IloveKohl](https://github.com/IloveKOHL)
-### Deputy managing director
-1. [NecrozAPI](https://github.com/NecrozAPI)
+3. [NecrozAPI](https://github.com/NecrozAPI)
 ### Developer
 1. [UhMarlon](https://github.com/uhmarlon)
 2. [AgeTry](https://github.com/AgeTry)
