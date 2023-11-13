@@ -17,7 +17,7 @@ I learned this at [LvckyWorld](https://github.com/LvckyWorld) or also with [Lvck
 ## LvckyWorld Developer Ranking
 ### Managing Director
 1. [LvckyAPI](https://github.com/LvckyAPI)
-2. [IloveKohl](https://github.com/IloveKOHL)
+2. [IloveKOHL](https://github.com/IloveKOHL)
 3. [NecrozAPI](https://github.com/NecrozAPI)
 ### Developer
 1. [UhMarlon](https://github.com/uhmarlon)
