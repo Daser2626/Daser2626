@@ -2,7 +2,7 @@
 
 # About Me
 
-I'm Damon Otten / Pulheim, Germany
+I'm Damon Otten, Germany
 
 # Languages
 [![TypeScript](https://img.shields.io/badge/-typescript-2f74c0.svg?logo=typescript&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/Daser2626?tab=repositories&q=&type=&language=typescript)
