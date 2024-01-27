@@ -7,6 +7,7 @@ I'm Damon Otten, Germany
 # Languages
 [![TypeScript](https://img.shields.io/badge/-typescript-2f74c0.svg?logo=typescript&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/Daser2626?tab=repositories&q=&type=&language=typescript)
 [![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E.svg?logo=javascript&logoColor=black&longCache=true&style=for-the-badge)](https://github.com/Daser2626?tab=repositories&q=&type=&language=javascript)
+[![C#](https://img.shields.io/badge/-Csharp-239120.svg?logo=c-sharp&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/Daser2626?tab=repositories&q=&type=&language=c%23)
 
 # Learned at
 I learned this at [LvckyWorld](https://github.com/LvckyWorld) or also with [LvckyAPI](https://github.com/LvckyAPI/LvckyAPI), who is my mentor.
