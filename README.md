@@ -1,6 +1,6 @@
 # About Me
 
-I'm Damon Otten, Germany
+I'm Damon Otten, from Germany
 
 # Languages
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26.svg?logo=gitlab&logoColor=white&longCache=true&style=for-the-badge) ![GitHub](https://img.shields.io/badge/-GitHub-000000.svg?logo=github&logoColor=white&longCache=true&style=for-the-badge) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E.svg?logo=javascript&logoColor=black&longCache=true&style=for-the-badge) ![TypeScript](https://img.shields.io/badge/-typescript-2f74c0.svg?logo=typescript&logoColor=white&longCache=true&style=for-the-badge) ![PhP](https://img.shields.io/badge/-php-848ebb.svg?logo=php&logoColor=white&longCache=true&style=for-the-badge) ![Lua](https://img.shields.io/badge/lua-blue?style=for-the-badge&logo=Lua&color=%232C2D72) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
